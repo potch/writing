@@ -1,4 +1,4 @@
-# Making Marketplace Snappy and Snazzy Using Fragments
+# Using Fragments to Make Marketplace Snappy, But Keep it Webby
 
 When web developers build webapps, they frequently find the default behaviors of traditonal web sites conflicting with things that we frequently associate with those of Apps. One of these is the concept of "deep linking". One of the foundations of the Web is the concept of the URL. Those of you stroking your mighty (and possibly figurative) beards of Internet knowledge know that stands for Uniform Resource Locator. In the ideal form of the web, each "thing" on a website has a URL. Visiting that URL returns the content associate with that particular chunk of data. This is, while seemingly obvious these days, a pretty nifty idea.
 
